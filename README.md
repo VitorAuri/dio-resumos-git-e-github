@@ -22,6 +22,7 @@ git init --Inicializa Repositório Local
 mkdir Nome da Pasta desejada --Cria uma pasta
 rm -rf .git --Remove .git caso seja inicializado o git init em pasta errada
 cat Nome do arquivo --Fala as configurações de um arquivo
+git checkout Nome da Branch --Troca pra branch desejada
 ```
 
 ## 🔍 Referências

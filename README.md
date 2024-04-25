@@ -13,8 +13,13 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 | ----- || ------- |
 | Gravando Alterações no Repositório Local | [Resumos]() |
 
+
+### Comandos no Terminal
 ```
-git init
+git init --Inicializa Repositório Local
+mkdir Nome da Pasta desejada --Cria uma pasta
+rm -rf .git --Remove .git caso seja inicializado o git init em pasta errada
+cat Nome do arquivo --Fala as configurações de um arquivo
 ```
 
 ## 🔍 Referências
